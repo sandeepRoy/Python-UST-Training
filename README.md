@@ -1,2 +1,2 @@
-# Python-Ust-Training
+# Python-UST-Training
 Repository containes training hands on
